@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **aranibar.a@pucp.edu.pe**
 
-- 📄 Know about my experiences [Top fifth Electronics Engineering student (10th semester) skilled in embedded systems and FPGA-based digital design. Former teaching assistant in Digital Design labs and leader of tech projects with social impact, including a published paper on a low-cost triage robot presented at IEEE INTERCON 2024. Currently developing an FPGA-based star tracker for CubeSats at the PUCP Institute of Radio Astronomy. Brings a versatile perspective shaped by an academic exchange in Computer Science at FU Berlin. Passionate about building efficient solutions and quickly adapting to new technologies.]
+- 📄 Know about my experiences: Top fifth Electronics Engineering student (10th semester) skilled in embedded systems and FPGA-based digital design. Former teaching assistant in Digital Design labs and leader of tech projects with social impact, including a published paper on a low-cost triage robot presented at IEEE INTERCON 2024. Currently developing an FPGA-based star tracker for CubeSats at the PUCP Institute of Radio Astronomy. Brings a versatile perspective shaped by an academic exchange in Computer Science at FU Berlin. Passionate about building efficient solutions and quickly adapting to new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
