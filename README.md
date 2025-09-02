@@ -1,15 +1,15 @@
 #<h1 align="center">Hi 👋, I'm Alvaro Aranibar</h1>
 <h3 align="center">An Electronics Engineering student passionately curious about Embedded Systems and Artificial Intelligence.</h3>
 
-- 🌱 I’m currently learning **Space vehicle dynamics and star trackers**
+- 🌱 I’m currently learning: **Space vehicle dynamics and star trackers**
 
-- 📫 How to reach me **aranibar.a@pucp.edu.pe**
+- 📫 How to reach me: **aranibar.a@pucp.edu.pe**
 
-- 📄 Know about my experiences [Top fifth Electronics Engineering student (10th semester) skilled in embedded systems and FPGA-based digital design. Former teaching assistant in Digital Design labs and leader of tech projects with social impact, including a published paper on a low-cost triage robot presented at IEEE INTERCON 2024. Currently developing an FPGA-based star tracker for CubeSats at the PUCP Institute of Radio Astronomy. Brings a versatile perspective shaped by an academic exchange in Computer Science at FU Berlin. Passionate about building efficient solutions and quickly adapting to new technologies.](Top fifth Electronics Engineering student (10th semester) skilled in embedded systems and FPGA-based digital design. Former teaching assistant in Digital Design labs and leader of tech projects with social impact, including a published paper on a low-cost triage robot presented at IEEE INTERCON 2024. Currently developing an FPGA-based star tracker for CubeSats at the PUCP Institute of Radio Astronomy. Brings a versatile perspective shaped by an academic exchange in Computer Science at FU Berlin. Passionate about building efficient solutions and quickly adapting to new technologies.)
+- 📄 Know about my experiences [Top fifth Electronics Engineering student (10th semester) skilled in embedded systems and FPGA-based digital design. Former teaching assistant in Digital Design labs and leader of tech projects with social impact, including a published paper on a low-cost triage robot presented at IEEE INTERCON 2024. Currently developing an FPGA-based star tracker for CubeSats at the PUCP Institute of Radio Astronomy. Brings a versatile perspective shaped by an academic exchange in Computer Science at FU Berlin. Passionate about building efficient solutions and quickly adapting to new technologies.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alvaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alvaro-aranibar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
