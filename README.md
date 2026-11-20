@@ -1,11 +1,6 @@
 ## Alvaro Aranibar
 
-Electronics Engineering student at Pontificia Universidad Católica del Perú (PUCP), interested in embedded systems, space systems and computer vision.
-
-- Developing a star tracker for the INTISAT 3U CubeSat as my bachelor's thesis at the PUCP Institute of Radio Astronomy, and adapting the satellite's EPS firmware.
-- Former teaching assistant in the Digital Design labs.
-- Academic exchange in Computer Science at Freie Universität Berlin.
-- Top fifth of my Electronics Engineering class.
+Electronics Engineer working at the intersection of hardware and firmware for space systems. Subsystem lead for Electrical Power and Attitude Determination on INTISAT, a 3U satellite representing Peru in the APSCO CubeSat Competition, where I redesigned the power PCB and took our engineering model to review in China. First author at the 77th International Astronautical Congress in Turkey on a low-cost star tracker we developed and validated, and co-author of a second paper. Former teaching assistant in Digital Design labs. Exchange in Computer Science at FU Berlin. I translate theory into working engineering solutions: self-taught with complex concepts, rigorous in validating them.
 
 ### Projects
 
