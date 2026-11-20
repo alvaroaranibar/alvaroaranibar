@@ -6,7 +6,6 @@ Electronics Engineer working at the intersection of hardware and firmware for sp
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Intisat_eps](https://github.com/alvaroaranibar/Intisat_eps) | EPS firmware for the INTISAT CubeSat, adapted from SpaceLab's EPS 2.0 | C, MSP430, FreeRTOS |
 | [pneumothorax_segmentation](https://github.com/alvaroaranibar/pneumothorax_segmentation) | Chest X-ray pneumothorax segmentation, 82.41 % Dice on PTX-498 | Python, TensorFlow, U-Net |
 | [triage_robot](https://github.com/alvaroaranibar/triage_robot) | Low-cost social robot for automated triage | Python, Raspberry Pi, AWS |
 | [balancing_robot](https://github.com/alvaroaranibar/balancing_robot) | Self-balancing robot with a state-space controller and MQTT tuning | C++, ESP32, MATLAB |
@@ -20,11 +19,10 @@ Electronics Engineer working at the intersection of hardware and firmware for sp
 
 ### Tools
 
-- Languages: C, C++, Python, MATLAB/Simulink, Ruby, Bash
-- Embedded: FPGA digital design, FreeRTOS, ESP32, MSP430, Arduino, Raspberry Pi
-- Machine learning and vision: TensorFlow, PyTorch, OpenCV, scikit-learn
-- Design: Altium, EasyEDA, Autodesk Inventor, Photoshop
-- Other: Git, Linux
+- Embedded & Digital Design: C | STM32 | MSP430 | FreeRTOS | I2C/UART/SPI/CANBUS | Verilog | VHDL
+- Hardware Design: Altium Designer | PCB layout | SMT assembly | Oscilloscope, multimeter and logic analyzer debugging 
+- Control & ML: State-space control | MATLAB/Simulink | Python | Computer vision | PyTorch/Keras | Git
+
 
 ### Contact
 
